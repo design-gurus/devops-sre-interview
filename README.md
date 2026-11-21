@@ -1,0 +1,116 @@
+# DevOps and SRE Interview
+
+> The free, open companion to **Grokking DevOps and SRE Interviews** by [DesignGurus.io](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme), created by Arslan Ahmad.
+
+[![GitHub stars](https://img.shields.io/github/stars/design-gurus/devops-sre-interview?style=social)](https://github.com/design-gurus/devops-sre-interview/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/design-gurus/devops-sre-interview)](https://github.com/design-gurus/devops-sre-interview/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+A DevOps or site reliability engineering (SRE) interview tests how a candidate behaves when a production system fails. A software engineering interview asks the candidate to build something. This one asks the candidate to find a fault, limit the harm, and prevent the next one. Most public material for these interviews is a list of several thousand questions with one-line answers. That format trains recall, and the rounds reward reasoning.
+
+This repository takes the opposite approach. It explains each round, the method behind a strong answer, and the small set of concepts that interviewers return to. Every page is short. For worked drills, graded exercises, and full practice interviews, see the course.
+
+## Start here
+
+| Your situation | Read first |
+|---|---|
+| The interview is scheduled and the rounds are unknown | [The interview loop](rounds/interview-loop.md) |
+| The troubleshooting round is the main concern | [Troubleshooting](rounds/troubleshooting.md), then [Linux commands](cheat-sheets/linux-commands-for-troubleshooting.md) |
+| The background is software engineering, and SRE is new | [DevOps vs SRE](cheat-sheets/devops-vs-sre.md), then [SLIs, SLOs, and error budgets](concepts/slis-slos-and-error-budgets.md) |
+| The design round is the main concern | [SRE system design](rounds/sre-system-design.md), then [Capacity planning](concepts/capacity-planning.md) |
+| Four weeks are available | [The four-week plan](cheat-sheets/four-week-plan.md) |
+
+## The loop at a glance
+
+The rounds below are commonly reported by candidates. No company publishes a standard loop, and the mix changes by team and level.
+
+| Round | What it measures | Guide |
+|---|---|---|
+| Recruiter or manager screen | Fit, background, and incidents handled | [Interview loop](rounds/interview-loop.md) |
+| Coding and scripting | Automation with Python or Bash | [Coding and scripting](rounds/coding-and-scripting.md) |
+| Linux and networking | How the operating system and the network behave | [Linux and networking](rounds/linux-and-networking.md) |
+| Troubleshooting | A method for finding a fault under time pressure | [Troubleshooting](rounds/troubleshooting.md) |
+| System or infrastructure design | Reliability, failure domains, capacity, rollout | [SRE system design](rounds/sre-system-design.md) |
+| Incident and reliability practice | Running an incident and learning from it | [Incident response](rounds/incident-response.md) |
+| Behavioral and project review | Judgment, ownership, communication | [Behavioral](rounds/behavioral.md) |
+
+## Every page
+
+### Rounds
+
+| Page | What it covers |
+|---|---|
+| [Interview loop](rounds/interview-loop.md) | The round types, how a loop is assembled, and what to ask the recruiter |
+| [Troubleshooting](rounds/troubleshooting.md) | A five-step method and a worked example on a slow web service |
+| [Linux and networking](rounds/linux-and-networking.md) | The topics that recur, and how to explain behavior instead of commands |
+| [SRE system design](rounds/sre-system-design.md) | How this round differs from a product design round |
+| [Coding and scripting](rounds/coding-and-scripting.md) | Typical tasks, with a log parsing example |
+| [Incident response](rounds/incident-response.md) | Roles, severity, mitigation before diagnosis, and communication |
+| [Behavioral](rounds/behavioral.md) | The story types that operations interviewers ask for |
+
+### Concepts
+
+| Page | What it covers |
+|---|---|
+| [SLIs, SLOs, and error budgets](concepts/slis-slos-and-error-budgets.md) | Definitions and a worked error budget calculation |
+| [Observability](concepts/observability.md) | Metrics, logs, traces, and the four golden signals |
+| [CI/CD and deployment strategies](concepts/ci-cd-and-deployment-strategies.md) | Rolling, blue-green, and canary releases compared |
+| [Containers and Kubernetes](concepts/containers-and-kubernetes.md) | The objects and failure states that interviews ask about |
+| [Infrastructure as code](concepts/infrastructure-as-code.md) | State, drift, plans, and safe changes |
+| [Postmortems](concepts/postmortems.md) | The blameless review and what a good one contains |
+| [Capacity planning](concepts/capacity-planning.md) | From peak traffic to an instance count, with arithmetic |
+| [Toil and automation](concepts/toil-and-automation.md) | What toil is and when automating it pays back |
+
+### Cheat sheets
+
+| Page | What it covers |
+|---|---|
+| [Question bank](cheat-sheets/question-bank.md) | About 60 questions grouped by round, each with a pointer |
+| [Linux commands for troubleshooting](cheat-sheets/linux-commands-for-troubleshooting.md) | Each command and the question it answers |
+| [DevOps vs SRE](cheat-sheets/devops-vs-sre.md) | The two roles and their interviews side by side |
+| [Availability numbers](cheat-sheets/availability-numbers.md) | Allowed downtime from 99 to 99.999 percent |
+| [Common mistakes](cheat-sheets/common-mistakes.md) | Ten errors that cost candidates the round |
+| [Four-week plan](cheat-sheets/four-week-plan.md) | A week-by-week preparation schedule |
+
+## FAQ
+
+### What is asked in an SRE interview?
+
+An SRE loop commonly includes coding, Linux and networking, troubleshooting, a system design round focused on reliability, and a behavioral round. The [interview loop](rounds/interview-loop.md) page describes each one.
+
+### What is the difference between a DevOps interview and an SRE interview?
+
+Candidate reports suggest that DevOps loops ask more about daily tools such as Kubernetes, Terraform, and build pipelines. SRE loops ask more about coding, operating system internals, and reliability targets. The [comparison page](cheat-sheets/devops-vs-sre.md) lists the differences.
+
+### Is there coding in a DevOps interview?
+
+In most reported loops, yes. The tasks are usually practical, such as parsing a log file or writing a small tool. See [coding and scripting](rounds/coding-and-scripting.md) and the Design Gurus answer on [whether coding is asked in a DevOps interview](https://www.designgurus.io/answers/detail/is-coding-asked-in-devops-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme).
+
+### What is a troubleshooting interview?
+
+The interviewer describes a failure, and the candidate investigates it one step at a time. The interviewer supplies the result of each check. The grade depends on the method, not on guessing the cause. See [troubleshooting](rounds/troubleshooting.md).
+
+### What is asked in an SRE system design interview?
+
+The candidate designs a system and is then asked how it fails, how it is rolled out, and how it is measured. Typical questions include a metrics pipeline, a deployment platform, and a service that runs in several regions. See [SRE system design](rounds/sre-system-design.md).
+
+### How long does it take to prepare?
+
+A working engineer with production experience usually needs about four weeks at eight hours a week. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time by round.
+
+## Go deeper
+
+- [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the full course, with troubleshooting drills, mid-level and senior answers side by side, graded Python exercises, and full practice interviews.
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the design method that the SRE design round builds on.
+- [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): load balancers, caches, queues, and replication from the beginning.
+
+Related free repositories: [Grokking System Design](https://github.com/design-gurus/grokking-system-design) and [System Design Numbers](https://github.com/design-gurus/system-design-numbers).
+
+## Contributing
+
+Corrections and additions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+## License
+
+The content is licensed under [CC BY 4.0](LICENSE). See [NOTICE.md](NOTICE.md) for what the license covers and how to attribute.
