@@ -99,6 +99,16 @@ The candidate designs a system and is then asked how it fails, how it is rolled 
 
 A working engineer with production experience usually needs about four weeks at eight hours a week. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time by round.
 
+## Free reading on DesignGurus.io
+
+- Free article: [DevOps vs SRE vs platform engineer interviews](https://www.designgurus.io/blog/devops-vs-sre-vs-platform-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): what each of the three interviews tests.
+- Free article: [The DevOps system design interview](https://www.designgurus.io/blog/devops-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): how infrastructure design rounds work.
+- Free article: [What to expect in a production engineering interview](https://www.designgurus.io/blog/what-to-expect-in-a-production-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the loop for a closely related role.
+- Free article: [An interview strategy for site reliability engineering](https://www.designgurus.io/blog/site-reliability-engineering-crafting-an-sre-centric-interview-strategy?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): a preparation approach built around SRE topics.
+- Free article: [OpenTelemetry and modern observability](https://www.designgurus.io/blog/guide-to-modern-observability?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): a beginner guide to metrics, logs, and traces.
+- Free article: [The Kubernetes guide for system design](https://www.designgurus.io/blog/kubernetes-ultimate-guide?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the cluster components and how they work together.
+- Free article: [High availability in system design](https://www.designgurus.io/blog/high-availability-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): 15 strategies for keeping a system available.
+
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the full course, with troubleshooting drills, mid-level and senior answers side by side, graded Python exercises, and full practice interviews.

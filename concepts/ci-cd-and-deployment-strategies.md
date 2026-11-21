@@ -66,3 +66,5 @@ A feature flag turns a feature on or off without a deployment. It separates rele
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-ci-cd-and-deployment-strategies) has a chapter on CI/CD and safe releases and a full design of a deployment platform for many teams.
 - [Containers and Kubernetes](containers-and-kubernetes.md) covers how rolling updates work in a cluster.
+- Free answer: [Deployment strategies for zero-downtime updates and CI/CD pipelines](https://www.designgurus.io/answers/detail/deployment-strategies-for-zero-downtime-system-updates-and-cicd-pipelines?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-ci-cd-and-deployment-strategies), a longer comparison of the release methods.
+- Free answer: [What canary analysis is](https://www.designgurus.io/answers/detail/what-is-canary-analysis?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-ci-cd-and-deployment-strategies), which explains how a canary release is judged.

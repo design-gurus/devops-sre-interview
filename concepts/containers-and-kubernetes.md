@@ -75,3 +75,5 @@ For question 2, check that the service selector matches the pod labels, that the
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-containers-and-kubernetes) has a seven-lesson chapter on containers and Kubernetes, taught through failures and follow-up questions.
 - [CI/CD and deployment strategies](ci-cd-and-deployment-strategies.md) explains the release methods a cluster supports.
+- Free article: [The Kubernetes guide for system design](https://www.designgurus.io/blog/kubernetes-ultimate-guide?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-containers-and-kubernetes), a longer explanation of the cluster components.
+- Free article: [Virtual machines vs containers](https://www.designgurus.io/blog/virtual-machines-vs-containers?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-containers-and-kubernetes), a beginner guide to the two isolation models.
