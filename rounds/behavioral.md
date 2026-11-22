@@ -60,6 +60,9 @@ Choose a project in which you made the main technical decisions yourself. A larg
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral) has a chapter on behavioral answers and the project review for operations roles.
+- Lesson: [Telling On Call and Incident Stories](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/telling-on-call-and-incident-stories?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral), in Grokking DevOps and SRE Interviews
+- Lesson: [Conflict, Failure, and Automation Decisions](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/conflict-failure-and-automation-decisions?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral), in Grokking DevOps and SRE Interviews
+- Lesson: [Defending Your Resume Projects](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/defending-your-resume-projects?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral), in Grokking DevOps and SRE Interviews
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral) teaches STAR, story banks, and company frameworks in full.
 - [Postmortems](../concepts/postmortems.md) explains the blameless approach.
 - Free article: [How to craft compelling behavioral interview stories](https://www.designgurus.io/blog/how-to-craft-compelling-behavioral-interview-stories?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-behavioral), a method for preparing the stories this round asks for.

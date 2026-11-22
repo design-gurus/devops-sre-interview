@@ -81,6 +81,8 @@ For question 5, 2 hours is 120 minutes. That exceeds the 43.2 minutes that 99.9 
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-availability-numbers) uses these numbers in its chapters on SLOs and infrastructure design.
+- Lesson: [SLIs, SLOs, and Error Budgets](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/slis-slos-and-error-budgets?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-availability-numbers), in Grokking DevOps and SRE Interviews
+- Lesson: [Availability](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/availability?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-availability-numbers), in Grokking System Design Fundamentals
 - [SLIs, SLOs, and error budgets](../concepts/slis-slos-and-error-budgets.md) shows how a target becomes a budget.
 - [System Design Numbers](https://github.com/design-gurus/system-design-numbers) is a free reference for latency, storage, and traffic estimates.
 - Free article: [High availability in system design](https://www.designgurus.io/blog/high-availability-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-availability-numbers), which lists 15 strategies for reaching these targets.

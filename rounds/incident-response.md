@@ -64,5 +64,8 @@ Prepare one real incident in detail: the timeline in minutes, the impact as a nu
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-incident-response) has a chapter on incident response and postmortems, with full answers at two levels.
+- Lesson: [Severity and the First Ten Minutes](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/severity-and-the-first-ten-minutes?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-incident-response), in Grokking DevOps and SRE Interviews
+- Lesson: [Mitigate Before You Diagnose](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/mitigate-before-you-diagnose?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-incident-response), in Grokking DevOps and SRE Interviews
+- Lesson: [Communicating During an Incident](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/communicating-during-an-incident?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-incident-response), in Grokking DevOps and SRE Interviews
 - [Postmortems](../concepts/postmortems.md) covers step 6.
 - [SLIs, SLOs, and error budgets](../concepts/slis-slos-and-error-budgets.md) explains how impact is measured.

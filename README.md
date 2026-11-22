@@ -99,6 +99,19 @@ The candidate designs a system and is then asked how it fails, how it is rolled 
 
 A working engineer with production experience usually needs about four weeks at eight hours a week. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time by round.
 
+## Course lessons to start with
+
+- [How DevOps and SRE Interview Loops Test the Job](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/how-devops-interview-loops-test-the-job?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): what each round measures, in Grokking DevOps and SRE Interviews
+- [A Method for Troubleshooting](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/a-method-for-troubleshooting?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the steps for finding a fault in a live system, in Grokking DevOps and SRE Interviews
+- [Drill: The Website Is Down](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/drill-the-website-is-down?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): a full troubleshooting answer from the first check to the cause, in Grokking DevOps and SRE Interviews
+- [What Happens When You Type a URL](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/what-happens-when-you-type-a-url?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): DNS, TCP, TLS, and HTTP in one request, in Grokking DevOps and SRE Interviews
+- [Kubernetes Core Objects](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/kubernetes-core-objects?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): pods, deployments, and services and how they relate, in Grokking DevOps and SRE Interviews
+- [Rolling, Blue Green, and Canary Releases](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/rolling-blue-green-and-canary-releases?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): how the three release methods differ and when to use each, in Grokking DevOps and SRE Interviews
+- [SLIs, SLOs, and Error Budgets](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/slis-slos-and-error-budgets?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): how a reliability target becomes a budget, in Grokking DevOps and SRE Interviews
+- [Mitigate Before You Diagnose](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/mitigate-before-you-diagnose?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): why an incident answer restores service first, in Grokking DevOps and SRE Interviews
+- [A Method for Infrastructure Design](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/a-method-for-infrastructure-design?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): the steps for the SRE design round, in Grokking DevOps and SRE Interviews
+- [Reading Load Average and CPU Usage](https://www.designgurus.io/course-play/grokking-operating-systems-and-networking-for-backend-engineers/doc/reading-load-average-and-cpu-usage?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): what the load numbers on a Linux server count, in Operating Systems and Networking for Backend Engineers
+
 ## Free reading on DesignGurus.io
 
 - Free article: [DevOps vs SRE vs platform engineer interviews](https://www.designgurus.io/blog/devops-vs-sre-vs-platform-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=readme): what each of the three interviews tests.

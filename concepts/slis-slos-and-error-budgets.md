@@ -70,6 +70,8 @@ For question 5, serial dependencies multiply: 0.999 x 0.999 x 0.999 is about 0.9
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-slis-slos-and-error-budgets) has a chapter on observability and SLOs, including alert design from an error budget.
+- Lesson: [SLIs, SLOs, and Error Budgets](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/slis-slos-and-error-budgets?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-slis-slos-and-error-budgets), in Grokking DevOps and SRE Interviews
+- Lesson: [Burn Rate Alerts](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/burn-rate-alerts?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-slis-slos-and-error-budgets), in Grokking DevOps and SRE Interviews
 - [Availability numbers](../cheat-sheets/availability-numbers.md) lists allowed downtime for each target.
 - [Observability](observability.md) covers how indicators are collected.
 - Free answer: [What an error budget policy is](https://www.designgurus.io/answers/detail/what-is-an-error-budget-policy?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-slis-slos-and-error-budgets), which explains what a team does when the budget is spent.

@@ -73,5 +73,7 @@ For question 5, a person's error is where the investigation begins. The useful f
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-postmortems) has a chapter on incident response and postmortems with full written examples.
+- Lesson: [Writing a Blameless Postmortem](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/writing-a-blameless-postmortem?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-postmortems), in Grokking DevOps and SRE Interviews
+- Lesson: [Lessons From Public Outages](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/lessons-from-public-outages?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-postmortems), in Grokking DevOps and SRE Interviews
 - [Incident response](../rounds/incident-response.md) covers the steps before the review.
 - [Behavioral](../rounds/behavioral.md) shows how to tell an incident as an interview story.

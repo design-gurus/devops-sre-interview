@@ -63,6 +63,9 @@ For question 4, each distinct label value creates a separate time series. A labe
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-observability) covers metrics, logs, traces, and alert design, and includes the design of a metrics and alerting pipeline.
+- Lesson: [Metrics, Logs, and Traces](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/metrics-logs-and-traces?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-observability), in Grokking DevOps and SRE Interviews
+- Lesson: [Designing Alerts That Matter](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/designing-alerts-that-matter?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-observability), in Grokking DevOps and SRE Interviews
+- Lesson: [Monitoring and Observability](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/monitoring-and-observability?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-observability), in Grokking System Design Fundamentals
 - [SLIs, SLOs, and error budgets](slis-slos-and-error-budgets.md) shows how to turn these signals into targets.
 - [Troubleshooting](../rounds/troubleshooting.md) uses them in a worked example.
 - Free article: [OpenTelemetry and modern observability](https://www.designgurus.io/blog/guide-to-modern-observability?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-observability), a beginner guide to collecting metrics, logs, and traces.

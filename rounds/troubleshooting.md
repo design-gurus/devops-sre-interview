@@ -56,5 +56,8 @@ The interviewer says: "Users report that the checkout page is slow. You have acc
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-troubleshooting) has six full drills, including a website that is down, a failure after a deployment, high CPU, and intermittent HTTP 500 errors.
+- Lesson: [A Method for Troubleshooting](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/a-method-for-troubleshooting?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-troubleshooting), in Grokking DevOps and SRE Interviews
+- Lesson: [Drill: The Website Is Down](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/drill-the-website-is-down?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-troubleshooting), in Grokking DevOps and SRE Interviews
+- Lesson: [A Method for Performance Problems](https://www.designgurus.io/course-play/grokking-operating-systems-and-networking-for-backend-engineers/doc/a-method-for-performance-problems?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=rounds-troubleshooting), in Operating Systems and Networking for Backend Engineers
 - [Linux commands for troubleshooting](../cheat-sheets/linux-commands-for-troubleshooting.md) lists each command with the question it answers.
 - [Observability](../concepts/observability.md) explains the signals used in step 1.

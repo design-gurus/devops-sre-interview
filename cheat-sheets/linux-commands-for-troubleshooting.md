@@ -81,4 +81,7 @@ When a host is slow and nothing else is known, a fixed order prevents random sea
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-linux-commands-for-troubleshooting) has a lesson on Linux tools for investigation, followed by six troubleshooting drills that use them.
+- Lesson: [Linux Tools for Investigation](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/linux-tools-for-investigation?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-linux-commands-for-troubleshooting), in Grokking DevOps and SRE Interviews
+- Lesson: [CPU, Memory and Disk Tools](https://www.designgurus.io/course-play/grokking-operating-systems-and-networking-for-backend-engineers/doc/cpu-memory-and-disk-tools?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-linux-commands-for-troubleshooting), in Operating Systems and Networking for Backend Engineers
+- Lesson: [Network State Tools](https://www.designgurus.io/course-play/grokking-operating-systems-and-networking-for-backend-engineers/doc/network-state-tools?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=cheat-sheets-linux-commands-for-troubleshooting), in Operating Systems and Networking for Backend Engineers
 - [Troubleshooting](../rounds/troubleshooting.md) shows the method that these commands support.

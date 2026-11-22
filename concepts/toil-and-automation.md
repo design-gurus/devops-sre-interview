@@ -69,4 +69,5 @@ For question 2, rank tasks by hours per month and by the harm of an error, then 
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-toil-and-automation) has a lesson on toil and automation decisions, plus lessons on production readiness, game days, and on-call health.
+- Lesson: [Toil and Automation Decisions](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/toil-and-automation-decisions?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-toil-and-automation), in Grokking DevOps and SRE Interviews
 - [Behavioral](../rounds/behavioral.md) shows how to present an automation story.

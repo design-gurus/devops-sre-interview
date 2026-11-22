@@ -69,4 +69,7 @@ An engineer renames a database resource in the code to follow a new naming rule.
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-infrastructure-as-code) has a chapter on Terraform and infrastructure as code, and a chapter on take-home tasks that use it.
+- Lesson: [How Terraform Works](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/how-terraform-works?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-infrastructure-as-code), in Grokking DevOps and SRE Interviews
+- Lesson: [State, Locking, and Remote Backends](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/state-locking-and-remote-backends?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-infrastructure-as-code), in Grokking DevOps and SRE Interviews
+- Lesson: [Drift and Safe Team Workflows](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/drift-and-safe-team-workflows?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-infrastructure-as-code), in Grokking DevOps and SRE Interviews
 - [CI/CD and deployment strategies](ci-cd-and-deployment-strategies.md) covers the pipeline that applies these changes.

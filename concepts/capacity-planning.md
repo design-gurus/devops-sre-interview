@@ -70,6 +70,7 @@ State each assumption aloud before using it. Interviewers accept a reasonable as
 ## Go deeper
 
 - [Grokking DevOps and SRE Interviews](https://www.designgurus.io/course/grokking-devops-and-sre-interviews?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-capacity-planning) covers capacity planning, load testing, retries, timeouts, and overload in its reliability engineering chapter.
+- Lesson: [Capacity Planning and Load Testing](https://www.designgurus.io/course-play/grokking-devops-and-sre-interviews/doc/capacity-planning-and-load-testing?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-capacity-planning), in Grokking DevOps and SRE Interviews
 - [System Design Numbers](https://github.com/design-gurus/system-design-numbers) is a free reference for estimation.
 - [SRE system design](../rounds/sre-system-design.md) shows where sizing fits in the round.
 - Free article: [Autoscaling strategies every developer should know](https://www.designgurus.io/blog/autoscaling-strategies?utm_source=github&utm_medium=repo&utm_campaign=devops-sre-interview&utm_content=concepts-capacity-planning), which covers how capacity follows demand automatically.
