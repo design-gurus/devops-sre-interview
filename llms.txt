@@ -1,0 +1,70 @@
+# DevOps and SRE Interview
+
+> The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Cheat sheets
+
+- [Availability Numbers](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/availability-numbers.md): Availability is the share of time, or the share of requests, in which a service works.
+- [Common Mistakes in DevOps and SRE Interviews](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/common-mistakes.md): Most rejected candidates in these loops knew the tools.
+- [DevOps vs SRE](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/devops-vs-sre.md): DevOps is a way of working in which the people who build software and the people who run it share responsibility for delivery.
+- [Four-Week Preparation Plan](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/four-week-plan.md): This plan prepares a working engineer for a DevOps or SRE loop in four weeks at about eight hours a week.
+- [Linux Commands for Troubleshooting](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/linux-commands-for-troubleshooting.md): In a troubleshooting round, a command is useful only when the candidate can state the question it answers.
+- [DevOps and SRE Interview Question Bank](https://github.com/design-gurus/devops-sre-interview/blob/main/cheat-sheets/question-bank.md): This page lists 60 questions that candidates commonly report, grouped by round.
+
+## Concepts
+
+- [Capacity Planning](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/capacity-planning.md): Capacity planning is the work of deciding how much hardware a service needs to meet its targets at peak load, with enough spare to survive a failure.
+- [CI/CD and Deployment Strategies](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/ci-cd-and-deployment-strategies.md): Continuous integration (CI) builds and tests every change as soon as it is merged.
+- [Containers and Kubernetes](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/containers-and-kubernetes.md): A container is a process that runs with its own view of the file system, the network, and the process list.
+- [Infrastructure as Code](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/infrastructure-as-code.md): Infrastructure as code means describing servers, networks, and other resources in files that are kept in version control and applied by a tool.
+- [Observability](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/observability.md): Observability is the ability to understand what a system is doing from the data it emits.
+- [Postmortems](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/postmortems.md): A postmortem is a written review of an incident: what happened, why, what it cost, and what will change.
+- [SLIs, SLOs, and Error Budgets](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/slis-slos-and-error-budgets.md): A service level indicator (SLI) is a measurement of how well a service behaves.
+- [Toil and Automation](https://github.com/design-gurus/devops-sre-interview/blob/main/concepts/toil-and-automation.md): Toil is operational work that is manual, repetitive, and automatable, and that grows as the service grows.
+
+## Rounds
+
+- [The Behavioral Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/behavioral.md): The behavioral round asks how a candidate acted in real situations.
+- [The Coding and Scripting Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/coding-and-scripting.md): The coding round in a DevOps or SRE loop usually asks for a practical program, such as a log parser or a small command-line tool.
+- [The Incident Response Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/incident-response.md): The incident response round tests whether a candidate can lead while production is failing.
+- [The DevOps and SRE Interview Loop](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/interview-loop.md): An interview loop is the full sequence of interviews for one role, and each interview in it is a round.
+- [The Linux and Networking Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/linux-and-networking.md): The Linux and networking round checks whether a candidate understands how the operating system and the network behave.
+- [The SRE System Design Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/sre-system-design.md): The SRE system design round asks for a design and then asks how that design fails, how it is released, and how it is measured.
+- [The Troubleshooting Round](https://github.com/design-gurus/devops-sre-interview/blob/main/rounds/troubleshooting.md): In the troubleshooting round, the interviewer describes a failure and the candidate investigates it one step at a time.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-devops-and-sre-interviews): The course linked throughout this guide.
